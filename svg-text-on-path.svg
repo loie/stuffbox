@@ -1,0 +1,6 @@
+<svg>
+  <path id="lorenz" d="M20 110 C 0 0, 270 170, 270 110" stroke="black" fill="transparent"/></path>
+  <text fill="#0000ff">
+    <textPath xlink:href="#lorenz">SVG is awesome...</textPath>
+  </text>
+</svg>
